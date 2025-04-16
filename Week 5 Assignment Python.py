@@ -48,19 +48,3 @@ class fish:
 
 for animal in (human(), kangaroo(), horse(), dog(), bird(), fish()):
     print(animal.move())
-
-    # name = "Dr. Smith"
-    # age = 45
-    # subject = "Computer Science"
-    
-    # Method to simulate Teaching
-#     def Dr_Smith(self):
-#         print("Dr. Smith is a great lecturer in Computer Science.")
-    
-# teacher = lecturer()
-# print(teacher.name)
-# print(teacher.age)
-# print(teacher.subject)
-# teacher.Dr_Smith()
-
-# Constructors
