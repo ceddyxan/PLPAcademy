@@ -21,8 +21,7 @@ my_tutor3 = tutor("Mr. Mutua", 28, "History")
 my_tutor4 = tutor("Ms. Moraa", 32, "English")
 
 for tutor in (my_tutor1, my_tutor2, my_tutor3, my_tutor4):
-    print(tutor.name)
-    print(tutor.age)
+    print(tutor.name, tutor.age)
     
     
     
